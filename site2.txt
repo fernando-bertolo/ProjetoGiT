@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>projeto</title>
+  </head>
+<body>
+
+   <h2 align="center">Bem vindos ao site</h2>
+
+</body>
+</html>
+
